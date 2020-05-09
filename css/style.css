@@ -148,7 +148,7 @@ header .main-navigation-back .navigation li.current_menu_items a{ background-col
 .why-choose .main-back .owl-nav button.owl-next:before{    font-family: 'FontAwesome'; content: "\f105"; color: #fff; font-size: 22px; background-color: #cf0303; width: 30px; height: 30px; text-align: center; line-height: 30px; float: left;}
 .why-choose .main-back .owl-nav button.owl-prev:before{    font-family: 'FontAwesome'; content: "\f104"; color: #fff; font-size: 22px; background-color: #cf0303; width: 30px; height: 30px; text-align: center; line-height: 30px; float: left;}
 
-.back-ground-back{ width: 100%; height: auto; float: left; background-position: top center; background-repeat: no-repeat; padding: 200px 0; position: relative; background-attachment: fixed;}
+.back-ground-back{ width: 100%; height: auto; float: left; background-position: center center; background-repeat: no-repeat; padding: 200px 0; position: relative; background-attachment: fixed;}
 .back-ground-back:before{ background-color: rgba(0,0,0,.7); position: absolute; top: 0; left: 0; content: ""; width: 100%; height: 100%;}
 .back-ground-back .heading{ margin: 0;}
 .back-ground-back .container{ position: relative; z-index: 2;}
@@ -157,14 +157,14 @@ header .main-navigation-back .navigation li.current_menu_items a{ background-col
 .back-ground-back .heading p{ color: #fff; font-size: 18px; width: 60%;}
 
 
-.footer-top{ width: 100%; background-color: #000; text-align: center; text-align: center;}
+.footer-top{ width: 100%; background-color: #f7f7f7; text-align: center; text-align: center;}
 .footer-top .details{ display: inline-block; margin: 0 0 -11px 0; padding: 15px 0;}
-.footer-top .details li{ float: left; list-style: none; color: #fff; margin-right: 15px;  padding-right: 15px; border-right: #fff 1px solid; }
+.footer-top .details li{ float: left; list-style: none; color: #333; margin-right: 15px;  padding-right: 15px; border-right: #333 1px solid; }
 .footer-top .details li:last-child{ margin-right: 0; padding-right: 0; border-right: none;}
 
 .footer-back{ width: 100%; height: auto; padding-bottom: 42px;  float: left; background-color: #222222;}
 .footer-back .portion{ width: 100%; height: auto; margin: 0 0 30px 0; padding: 0; float: left;}
-.footer-back .portion .logo{ display: block; margin: 0 0 22px 0; width: 100%;}
+.footer-back .portion .logo{ display: block; margin: 0 0 22px 0; width: 300px;}
 .footer-back .portion p{ font-size: 14px; color: #fff; line-height: 25px; margin: 0; padding: 0;}
 .footer-back .portion .social{ width: 100%; height: auto; margin: 0 0 0 0; padding: 0; float: left;}
 .footer-back .portion .social li{ float: left; line-height: normal; margin: 0 10px 0 0; list-style: none;}

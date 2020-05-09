@@ -80,6 +80,7 @@
     .footer-top .details li{ width: 50%; border: none; margin-right: 0; padding: 0 5px;}
     .section .about-image-back img{ height: auto;}
     .section .about-image-back:after{    width: calc(100%);}
+    .footer-back .portion .logo{ width: 200px;}
    
 }
 
