@@ -25,6 +25,32 @@
 }
 
 @media only screen and (max-width:500px) {
+    header .bottom-back .logo img{ width: 234px;}
+    header{font-size: 12px;}
+    header .right ul li{ font-size: 12px; margin: 0 7px 0 0; padding: 0 7px 0 0;}
+    header .top-back span{    margin-right: 4px; font-size: 13px;}
+    header .bottom-back .logo{ width: 200px;;}
+    header .main-navigation-back .navigation{ width: 100%;}
+    header .main-navigation-back .navigation li{ width: 33.33333%;}
+    header .main-navigation-back .navigation li a{ width: 100%; padding: 18px 0 10px 0; font-size: 14px;}
+    header .main-navigation-back .navigation li a span{ width: 100%; text-align: center;}
+    .bannar-details-back .content .main-content .details{ width: 100%; text-align: center;}
+    .bannar-details-back .content h2{ font-size: 30px;;}
+    .bannar-details-back .content .custom-button{ float: none; display: inline-block;}
+    .bannar-details-back .portion{ height: 529px;}
+    .bannar-details-back .portion .container{ height: 529px;}
+    .section .about-us-back h1{ font-size: 36px;;}
+    .section{ text-align: center;}
+    .heading.left{ text-align: center;}
+    .section .about-us-back h1:after{ right: 0; margin: auto;}
+    .why-choose .heading p{ width: 100%;}
+    .back-ground-back .heading p{ width: 100%;}
+    .back-ground-back{ padding: 70px 0;}
+    .back-ground-back .heading h2{ font-size: 30px;}
+    .why-choose h2{font-size: 30px;}
+    .footer-top .details li{ width: 50%; border: none; margin-right: 0; padding: 0 5px;}
+    .section .about-image-back img{ height: auto;}
+    .section .about-image-back:after{    width: calc(100%);}
 }
 
 @media only screen and (max-width:420px) {
