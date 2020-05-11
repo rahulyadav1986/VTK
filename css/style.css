@@ -160,6 +160,7 @@ header .main-navigation-back .navigation li.current_menu_items a{ background-col
 .footer-top{ width: 100%; background-color: #f7f7f7; text-align: center; text-align: center;}
 .footer-top .details{ display: inline-block; margin: 0 0 -11px 0; padding: 15px 0;}
 .footer-top .details li{ float: left; list-style: none; color: #333; margin-right: 15px;  padding-right: 15px; border-right: #333 1px solid; }
+.footer-top .details li span{ color:#cf0303}
 .footer-top .details li:last-child{ margin-right: 0; padding-right: 0; border-right: none;}
 
 .footer-back{ width: 100%; height: auto; padding-bottom: 42px;  float: left; background-color: #222222;}

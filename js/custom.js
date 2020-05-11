@@ -3,7 +3,8 @@ $(document).ready(function () {
     $('.why-slider').owlCarousel({
         loop: false,
         center: true,
-        autoplay: true,
+        loop: true,
+        autoplay: false,
         margin: 30,
         smartSpeed: 450,
         nav: true,
